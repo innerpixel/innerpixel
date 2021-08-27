@@ -12,14 +12,14 @@
   
 <strong>< MUSIC: LOW TONE NOTES :-) ></strong> 
   <p>
-    Welcome to INNERPIXEL - GitHub home.  My name is Gabriel Cirstea and i am the inventor of the innerpixels.  
+    Welcome to INNERPIXEL - GitHub home.  My name is Gabriel Cirstea and i am the inventor of the innerpixels. <br> 
     CODE NAME: Innerpixels-decentralized.blooming commnunity  ;-) <br>
     More to come as the projects takes more form. 
   </p>
 <h5>
   We are working on a decentralized service. Making the world a beter place, one innerpixel by one innerpixel. 
-  <br>Empowering one innerpixel to interconnect with other innerpixel. 
-  <br>While .. authenticity, freedom, privacy, safety and responsability.. being INNERPIXEL 
+  <br> - Empowering one innerpixel to interconnect with other innerpixel. 
+  <br> - While ..authenticity, privacy, safety and responsability.. being INNERPIXEL's core-values and most important assets. 
 </h5>
 
 <ul>
