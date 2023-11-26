@@ -1,4 +1,4 @@
-<strong>(hymn)</strong><br>
+<strong>(HYMN)</strong><br>
 <h3>
   <strong>0.INNERPIXEL</strong><br>
   THE EMPTINESS UPON <br>
